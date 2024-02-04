@@ -66,6 +66,7 @@ class Solution {
         int maxInWindow = -1;
         for (int i = 0; i < Math.min(index + 1, k); i++) {
             maxInWindow = Math.max(maxInWindow, arr[index - i]);
+            // TODO rewrite to optimize tail recursion (carry values in args)
             max = Math.max(max, maxInWindow * (i + 1) + findMax(arr, k, index - i - 1, cache, cacheMatch));
         }
 
