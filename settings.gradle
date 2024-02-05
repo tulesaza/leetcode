@@ -1,3 +1,4 @@
 rootProject.name = 'leetcode'
 include 'partition-array-for-maximum-sum'
+include 'longest-palindromic-substring'
 
