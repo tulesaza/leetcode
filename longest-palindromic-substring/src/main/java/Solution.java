@@ -2,7 +2,6 @@ class Solution {
 
     // Time O(n^2)
     // Space O(1)
-    // TODO try to implement Manacher's O(n) algorithm
     public String longestPalindrome(String s) {
         int palindromeStart = 0;
         int palindromeEnd = 0;
