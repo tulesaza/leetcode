@@ -21,7 +21,7 @@ class Solution {
                     tmp.add(new Combination(current.openers(), current.closers() + 1, current.combination() + ")"));
                 }
             }
-            result.addAll(tmp);
+            result = tmp;
             length++;
         }
 
