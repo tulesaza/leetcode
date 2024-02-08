@@ -3,4 +3,5 @@ include 'partition-array-for-maximum-sum'
 include 'longest-palindromic-substring'
 include 'climbing-stairs'
 include 'generate-parentheses'
+include 'pascals-triangle'
 
