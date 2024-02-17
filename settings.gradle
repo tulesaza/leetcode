@@ -5,4 +5,5 @@ include 'climbing-stairs'
 include 'generate-parentheses'
 include 'pascals-triangle'
 include 'longest-common-prefix'
+include 'palindrome-number'
 
