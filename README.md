@@ -9,3 +9,4 @@
 - **1043. Partition Array for Maximum Sum:** [Solution](partition-array-for-maximum-sum), [Task](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 - **5. Longest Palindromic Substring:** [Solution](longest-palindromic-substring), [Task](https://leetcode.com/problems/longest-palindromic-substring/description)
 - **22. Generate Parentheses:** [Solution](generate-parentheses), [Task](https://leetcode.com/problems/generate-parentheses/description/)
+- **3. Longest Substring Without Repeating Characters:**  [Solution](longest-substring-without-repeating-characters), [Task](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
