@@ -20,5 +20,6 @@
 - **122. Best Time to Buy and Sell Stock II:** [Solution](best-time-to-buy-and-sell-stock-ii), [Task](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
 - **904. Fruit Into Baskets:** [Solution](fruit-into-baskets), [Task](https://leetcode.com/problems/fruit-into-baskets/description/)
 - **567. Permutation in String:** [Solution](permutation-in-string), [Task](https://leetcode.com/problems/permutation-in-string/description/)
+- **438. Find All Anagrams in a String:** [Solution](find-all-anagrams-in-a-string), [Task](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
 ## Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
