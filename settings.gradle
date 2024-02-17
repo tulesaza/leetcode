@@ -10,4 +10,5 @@ include 'two-sum'
 include 'longest-substring-without-repeating-characters'
 include 'add-two-numbers'
 include 'reverse-integer'
+include 'roman-to-integer'
 
