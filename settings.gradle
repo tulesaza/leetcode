@@ -18,4 +18,5 @@ include 'balanced-binary-tree'
 include 'best-time-to-buy-and-sell-stock'
 include 'best-time-to-buy-and-sell-stock-ii'
 include 'fruit-into-baskets'
+include 'permutation-in-string'
 
