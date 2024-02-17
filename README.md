@@ -12,4 +12,5 @@
 - **22. Generate Parentheses:** [Solution](generate-parentheses), [Task](https://leetcode.com/problems/generate-parentheses/description/)
 - **3. Longest Substring Without Repeating Characters:**  [Solution](longest-substring-without-repeating-characters), [Task](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - **2. Add Two Numbers:** [Solution](add-two-numbers), [Task](https://leetcode.com/problems/add-two-numbers/description/)
-- **7. Reverse Integer:** [Solution](reverse-integer), [Task](https://leetcode.com/problems/reverse-integer/description/) 
+- **7. Reverse Integer:** [Solution](reverse-integer), [Task](https://leetcode.com/problems/reverse-integer/description/)
+- **53. Maximum Subarray:** [Solution](maximum-subarray), [Task](https://leetcode.com/problems/maximum-subarray/description/)
