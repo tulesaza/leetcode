@@ -17,5 +17,6 @@
 - **2. Add Two Numbers:** [Solution](add-two-numbers), [Task](https://leetcode.com/problems/add-two-numbers/description/)
 - **7. Reverse Integer:** [Solution](reverse-integer), [Task](https://leetcode.com/problems/reverse-integer/description/)
 - **53. Maximum Subarray:** [Solution](maximum-subarray), [Task](https://leetcode.com/problems/maximum-subarray/description/)
+- **122. Best Time to Buy and Sell Stock II:** [Solution](best-time-to-buy-and-sell-stock-ii), [Task](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)
 ## Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
