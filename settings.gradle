@@ -12,4 +12,5 @@ include 'add-two-numbers'
 include 'reverse-integer'
 include 'roman-to-integer'
 include 'maximum-subarray'
+include 'add-binary'
 

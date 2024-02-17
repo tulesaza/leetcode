@@ -6,6 +6,7 @@
 - **9. Palindrome Number:** [Solution](palindrome-number), [Task](https://leetcode.com/problems/palindrome-number/description/)
 - **1. Two Sum:** [Solution](two-sum), [Task](https://leetcode.com/problems/two-sum/description/)
 - **13. Roman to Integer:** [Solution](roman-to-integer), [Task](https://leetcode.com/problems/roman-to-integer/description/)
+- **67. Add Binary:** [Solution](add-binary), [Task](https://leetcode.com/problems/add-binary/description/)
 ## Medium:
 - **1043. Partition Array for Maximum Sum:** [Solution](partition-array-for-maximum-sum), [Task](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 - **5. Longest Palindromic Substring:** [Solution](longest-palindromic-substring), [Task](https://leetcode.com/problems/longest-palindromic-substring/description)
