@@ -14,4 +14,5 @@ include 'roman-to-integer'
 include 'maximum-subarray'
 include 'add-binary'
 include 'minimum-window-substring'
+include 'balanced-binary-tree'
 
