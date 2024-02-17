@@ -8,4 +8,5 @@ include 'longest-common-prefix'
 include 'palindrome-number'
 include 'two-sum'
 include 'longest-substring-without-repeating-characters'
+include 'add-two-numbers'
 
