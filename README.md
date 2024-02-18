@@ -9,6 +9,7 @@
 - **67. Add Binary:** [Solution](add-binary), [Task](https://leetcode.com/problems/add-binary/description/)
 - **110. Balanced Binary Tree:** [Solution](balanced-binary-tree), [Task](https://leetcode.com/problems/balanced-binary-tree/)
 - **121. Best Time to Buy and Sell Stock:** [Solution](best-time-to-buy-and-sell-stock), [Task](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+- **367. Valid Perfect Square:** [Solution](valid-perfect-square), [Task](https://leetcode.com/problems/valid-perfect-square/description)
 ## Medium:
 - **1043. Partition Array for Maximum Sum:** [Solution](partition-array-for-maximum-sum), [Task](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 - **5. Longest Palindromic Substring:** [Solution](longest-palindromic-substring), [Task](https://leetcode.com/problems/longest-palindromic-substring/description)

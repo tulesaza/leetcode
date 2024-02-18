@@ -20,4 +20,5 @@ include 'best-time-to-buy-and-sell-stock-ii'
 include 'fruit-into-baskets'
 include 'permutation-in-string'
 include 'find-all-anagrams-in-a-string'
+include 'valid-perfect-square'
 
