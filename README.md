@@ -24,3 +24,4 @@
 - **438. Find All Anagrams in a String:** [Solution](find-all-anagrams-in-a-string), [Task](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
 ## Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
+- **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)
