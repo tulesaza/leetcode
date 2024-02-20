@@ -11,7 +11,8 @@
 - **121. Best Time to Buy and Sell Stock:** [Solution](best-time-to-buy-and-sell-stock), [Task](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 - **367. Valid Perfect Square:** [Solution](valid-perfect-square), [Task](https://leetcode.com/problems/valid-perfect-square/description)
 - **268. Missing Number:** [Solution](missing-number), [Task](https://leetcode.com/problems/missing-number/description)
-- **20. Valid Parentheses** [Solution](valid-parentheses), [Task](https://leetcode.com/problems/valid-parentheses/description/) 
+- **20. Valid Parentheses:** [Solution](valid-parentheses), [Task](https://leetcode.com/problems/valid-parentheses/description/) 
+- **3019. Number of Changing Keys:** [Solution](number-of-changing-keys), [Task](https://leetcode.com/problems/number-of-changing-keys/description/)
 ## Medium:
 - **1043. Partition Array for Maximum Sum:** [Solution](partition-array-for-maximum-sum), [Task](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 - **5. Longest Palindromic Substring:** [Solution](longest-palindromic-substring), [Task](https://leetcode.com/problems/longest-palindromic-substring/description)
