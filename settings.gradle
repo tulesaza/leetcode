@@ -23,4 +23,5 @@ include 'find-all-anagrams-in-a-string'
 include 'valid-perfect-square'
 include 'longest-valid-parentheses'
 include 'missing-number'
+include 'valid-parentheses'
 
