@@ -27,4 +27,5 @@ include 'valid-parentheses'
 include 'number-of-changing-keys'
 include 'trapping-rain-water'
 include 'bitwise-and-of-numbers-range'
+include 'power-of-two'
 
