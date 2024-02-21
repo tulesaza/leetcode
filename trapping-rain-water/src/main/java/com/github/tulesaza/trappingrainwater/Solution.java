@@ -21,4 +21,19 @@ class Solution {
 
         return water;
     }
+
+    public int trapCoolHackerStyle(int[] h) {
+        int left = 0, right = h.length - 1;
+        int water = 0;
+        int rightBorderHeight = h[right];
+        int lefBorderHeight = h[left];
+
+        while (left < right) {
+            lefBorderHeight = Math.max(lefBorderHeight, h[left]);
+            rightBorderHeight = Math.max(rightBorderHeight, h[right]);
+            water += h[right] > h[left] ? lefBorderHeight - h[left++] : rightBorderHeight - h[right--];
+        }
+
+        return water;
+    }
 }
