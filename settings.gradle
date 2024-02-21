@@ -25,4 +25,5 @@ include 'longest-valid-parentheses'
 include 'missing-number'
 include 'valid-parentheses'
 include 'number-of-changing-keys'
+include 'trapping-rain-water'
 
