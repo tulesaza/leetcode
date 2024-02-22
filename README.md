@@ -28,7 +28,8 @@
 - **904. Fruit Into Baskets:** [Solution](fruit-into-baskets), [Task](https://leetcode.com/problems/fruit-into-baskets/description/)
 - **567. Permutation in String:** [Solution](permutation-in-string), [Task](https://leetcode.com/problems/permutation-in-string/description/)
 - **438. Find All Anagrams in a String:** [Solution](find-all-anagrams-in-a-string), [Task](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
-- **201. Bitwise AND of Numbers Range:** [Solution](bitwise-and-of-numbers-range), [Tasks](https://leetcode.com/problems/bitwise-and-of-numbers-range/description)
+- **201. Bitwise AND of Numbers Range:** [Solution](bitwise-and-of-numbers-range), [Task](https://leetcode.com/problems/bitwise-and-of-numbers-range/description)
+- **29. Divide Two Integers:** [Solution](divide-two-integers), [Task](https://leetcode.com/problems/divide-two-integers/description/)
 ## Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)
