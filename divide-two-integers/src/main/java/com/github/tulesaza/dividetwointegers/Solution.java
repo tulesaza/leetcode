@@ -24,8 +24,8 @@ class Solution {
         // 116/3 = sumOf2Powers + 2/3 (<1, will be cut because of int division)
         int reminder = dividend, sumOf2Powers = 0, power;
         while (reminder - divisor >= 0) {
-            for (power = 0; reminder - (divisor << 1 << power) >= 0; power++) ; // find 2^k, so reminder >= divisor*2^k
-            sumOf2Powers += 1 << power; // accomulate
+            for (power = 0; reminder - (divisor << 1 << power) >= 0; power++) ; // find max 2^k, so reminder >= divisor*2^k
+            sumOf2Powers += 1 << power;
             reminder -= divisor << power;
         }
 
