@@ -29,4 +29,5 @@ include 'trapping-rain-water'
 include 'bitwise-and-of-numbers-range'
 include 'power-of-two'
 include 'find-the-town-judge'
+include 'number-of-steps-to-reduce-a-number-to-zero'
 
