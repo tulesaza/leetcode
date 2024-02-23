@@ -17,6 +17,7 @@
 - **997. Find the Town Judge:** [Solution](find-all-anagrams-in-a-string), [Task](https://leetcode.com/problems/find-the-town-judge/description)
 - **1342. Number of Steps to Reduce a Number to Zero:** [Solution](number-of-steps-to-reduce-a-number-to-zero), [Task](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/)
 - **69. Sqrt(x):** [Solution](sqrtx), [Task](https://leetcode.com/problems/sqrtx/description/)
+- **191. Number of 1 Bits:** [Solution](number-of-1-bits), [Task](https://leetcode.com/problems/number-of-1-bits/description/)
 ## Medium:
 - **1043. Partition Array for Maximum Sum:** [Solution](partition-array-for-maximum-sum), [Task](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 - **5. Longest Palindromic Substring:** [Solution](longest-palindromic-substring), [Task](https://leetcode.com/problems/longest-palindromic-substring/description)
