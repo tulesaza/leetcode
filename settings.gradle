@@ -32,4 +32,5 @@ include 'find-the-town-judge'
 include 'number-of-steps-to-reduce-a-number-to-zero'
 include 'divide-two-integers'
 include 'cheapest-flights-within-k-stops'
+include 'sqrtx'
 
