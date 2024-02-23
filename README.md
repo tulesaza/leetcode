@@ -30,6 +30,7 @@
 - **438. Find All Anagrams in a String:** [Solution](find-all-anagrams-in-a-string), [Task](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
 - **201. Bitwise AND of Numbers Range:** [Solution](bitwise-and-of-numbers-range), [Task](https://leetcode.com/problems/bitwise-and-of-numbers-range/description)
 - **29. Divide Two Integers:** [Solution](divide-two-integers), [Task](https://leetcode.com/problems/divide-two-integers/description/)
+- **787. Cheapest Flights Within K Stops:** [Solution](cheapest-flights-within-k-stops), [Task](https://leetcode.com/problems/cheapest-flights-within-k-stops/description)
 ## Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)
