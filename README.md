@@ -38,3 +38,4 @@
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)
 - **42. Trapping Rain Water:** [Solution](trapping-rain-water), [Task](https://leetcode.com/problems/trapping-rain-water/description/)
+- **2092. Find All People With Secret:** [Solution](find-all-people-with-secret), [Task](https://leetcode.com/problems/find-all-people-with-secret/description)
