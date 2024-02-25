@@ -38,4 +38,5 @@ include 'valid-palindrome'
 include 'find-all-people-with-secret'
 include 'longest-consecutive-sequence'
 include 'find-if-path-exists-in-graph'
+include 'remove-letter-to-equalize-frequency'
 
