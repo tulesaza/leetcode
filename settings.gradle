@@ -36,4 +36,5 @@ include 'sqrtx'
 include 'number-of-1-bits'
 include 'valid-palindrome'
 include 'find-all-people-with-secret'
+include 'longest-consecutive-sequence'
 
