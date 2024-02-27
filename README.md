@@ -22,6 +22,7 @@
 - **1971. Find if Path Exists in Graph:** [Solution](find-if-path-exists-in-graph), [Task](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
 - **2423. Remove Letter To Equalize Frequency:** [Solution](remove-letter-to-equalize-frequency), [Task](https://leetcode.com/problems/remove-letter-to-equalize-frequency/description/)
 - **100. Same Tree:** [Solution](same-tree), [Task](https://leetcode.com/problems/same-tree/description)
+- **543. Diameter of Binary Tree:** [Solution](diameter-of-binary-tree), [Task](https://leetcode.com/problems/diameter-of-binary-tree/description)
 ## Medium:
 - **1043. Partition Array for Maximum Sum:** [Solution](partition-array-for-maximum-sum), [Task](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 - **5. Longest Palindromic Substring:** [Solution](longest-palindromic-substring), [Task](https://leetcode.com/problems/longest-palindromic-substring/description)
