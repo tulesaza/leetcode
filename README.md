@@ -39,6 +39,7 @@
 - **29. Divide Two Integers:** [Solution](divide-two-integers), [Task](https://leetcode.com/problems/divide-two-integers/description/)
 - **787. Cheapest Flights Within K Stops:** [Solution](cheapest-flights-within-k-stops), [Task](https://leetcode.com/problems/cheapest-flights-within-k-stops/description)
 - **128. Longest Consecutive Sequence:** [Solution](longest-consecutive-sequence), [Task](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+- **513. Find Bottom Left Tree Value:** [Solution](find-bottom-left-tree-value), [Task](https://leetcode.com/problems/find-bottom-left-tree-value/description)
 ## Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)
