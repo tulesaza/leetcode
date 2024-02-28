@@ -41,4 +41,5 @@ include 'find-if-path-exists-in-graph'
 include 'remove-letter-to-equalize-frequency'
 include 'same-tree'
 include 'diameter-of-binary-tree'
+include 'leetcode-binary-tree'
 
