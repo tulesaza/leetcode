@@ -12,18 +12,21 @@ import java.util.stream.Stream;
 import static org.assertj.core.api.Assertions.assertThat;
 
 
-class TreeNodeTest {
+class LeetcodeTreeCreatorTest {
+
+    final TreeCreator leetCode = new LeetcodeTreeCreator();
 
     @ParameterizedTest
     @MethodSource("data")
     void serdeTest(List<Integer> list) {
-        assertThat(list).isEqualTo(TreeNode.fromList(list).toList());
+        TreeNode root = leetCode.fromList(list);
+        assertThat(list).isEqualTo(leetCode.toList(root));
     }
 
     static Stream<Arguments> data() {
         return Stream.of(
-                /*Arguments.of(List.of(1)),
-                Arguments.of(List.of(1, 2, 3)),*/
+                Arguments.of(List.of(1)),
+                Arguments.of(List.of(1, 2, 3)),
                 Arguments.of(list(1, 2, 3, 4, null, 5, 6, null, null, 7))
         );
     }
