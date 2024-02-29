@@ -40,6 +40,7 @@
 - **787. Cheapest Flights Within K Stops:** [Solution](cheapest-flights-within-k-stops), [Task](https://leetcode.com/problems/cheapest-flights-within-k-stops/description)
 - **128. Longest Consecutive Sequence:** [Solution](longest-consecutive-sequence), [Task](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 - **513. Find Bottom Left Tree Value:** [Solution](find-bottom-left-tree-value), [Task](https://leetcode.com/problems/find-bottom-left-tree-value/description)
+- **1609. Even Odd Tree:** [Solution](even-odd-tree), [Task](https://leetcode.com/problems/even-odd-tree/description)
 ## Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)
