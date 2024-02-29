@@ -44,4 +44,5 @@ include 'diameter-of-binary-tree'
 include 'leetcode-binary-tree'
 include 'find-bottom-left-tree-value'
 include 'even-odd-tree'
+include 'move-zeroes'
 
