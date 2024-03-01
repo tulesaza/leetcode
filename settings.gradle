@@ -46,4 +46,5 @@ include 'find-bottom-left-tree-value'
 include 'even-odd-tree'
 include 'move-zeroes'
 include 'maximum-odd-binary-number'
+include 'merge-strings-alternately'
 

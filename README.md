@@ -25,6 +25,7 @@
 - **543. Diameter of Binary Tree:** [Solution](diameter-of-binary-tree), [Task](https://leetcode.com/problems/diameter-of-binary-tree/description)
 - **283. Move Zeroes:** [Solution](move-zeroes), [Task](https://leetcode.com/problems/move-zeroes/description)
 - **2864. Maximum Odd Binary Number:** [Solution](maximum-odd-binary-number), [Task](https://leetcode.com/problems/maximum-odd-binary-number/description)
+- **1768. Merge Strings Alternately:** [Solution](merge-strings-alternately), [Task](https://leetcode.com/problems/merge-strings-alternately/description)
 ## Medium:
 - **1043. Partition Array for Maximum Sum:** [Solution](partition-array-for-maximum-sum), [Task](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 - **5. Longest Palindromic Substring:** [Solution](longest-palindromic-substring), [Task](https://leetcode.com/problems/longest-palindromic-substring/description)
