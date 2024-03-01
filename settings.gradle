@@ -45,4 +45,5 @@ include 'leetcode-binary-tree'
 include 'find-bottom-left-tree-value'
 include 'even-odd-tree'
 include 'move-zeroes'
+include 'maximum-odd-binary-number'
 
