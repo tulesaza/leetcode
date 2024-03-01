@@ -47,4 +47,5 @@ include 'even-odd-tree'
 include 'move-zeroes'
 include 'maximum-odd-binary-number'
 include 'merge-strings-alternately'
+include 'is-subsequence'
 
