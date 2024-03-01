@@ -50,4 +50,5 @@ include 'merge-strings-alternately'
 include 'is-subsequence'
 include 'find-the-highest-altitude'
 include 'removing-stars-from-a-string'
+include 'counting-bits'
 
