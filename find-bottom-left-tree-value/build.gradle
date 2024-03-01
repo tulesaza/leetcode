@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    implementation(project(":leetcode-binary-tree")) {
+    implementation(project(":leetcode-data-structure")) {
         transitive = false
     }
     testImplementation platform('org.junit:junit-bom:5.9.1')
