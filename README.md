@@ -52,6 +52,7 @@
 - **1609. Even Odd Tree:** [Solution](even-odd-tree), [Task](https://leetcode.com/problems/even-odd-tree/description)
 - **2390. Removing Stars From a String:** [Solution](removing-stars-from-a-string), [Task](https://leetcode.com/problems/removing-stars-from-a-string/description/)
 - **2095. Delete the Middle Node of a Linked List:** [Solution](delete-the-middle-node-of-a-linked-list), [Task](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description)
+- **151. Reverse Words in a String:** [Solution](reverse-words-in-a-string), [Task](https://leetcode.com/problems/reverse-words-in-a-string/description)
 ## Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)
