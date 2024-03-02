@@ -29,6 +29,7 @@
 - **392. Is Subsequence:** [Solution](is-subsequence), [Task](https://leetcode.com/problems/is-subsequence/description)
 - **1732. Find the Highest Altitude:** [Solution](find-the-highest-altitude), [Task](https://leetcode.com/problems/find-the-highest-altitude/description)
 - **338. Counting Bits:** [Solution](counting-bits), [Task](https://leetcode.com/problems/counting-bits/description)
+- **977. Squares of a Sorted Array:** [Solution](squares-of-a-sorted-array), [Task](https://leetcode.com/problems/squares-of-a-sorted-array/description)
 ## Medium:
 - **1043. Partition Array for Maximum Sum:** [Solution](partition-array-for-maximum-sum), [Task](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 - **5. Longest Palindromic Substring:** [Solution](longest-palindromic-substring), [Task](https://leetcode.com/problems/longest-palindromic-substring/description)
