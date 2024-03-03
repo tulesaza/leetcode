@@ -59,4 +59,5 @@ include 'reverse-words-in-a-string'
 include 'remove-nth-node-from-end-of-list'
 include 'kids-with-the-greatest-number-of-candies'
 include 'reverse-linked-list'
+include 'find-the-difference-of-two-arrays'
 
