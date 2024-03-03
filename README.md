@@ -32,6 +32,7 @@
 - **977. Squares of a Sorted Array:** [Solution](squares-of-a-sorted-array), [Task](https://leetcode.com/problems/squares-of-a-sorted-array/description)
 - **1071. Greatest Common Divisor of Strings:** [Solution](greatest-common-divisor-of-strings), [Task](https://leetcode.com/problems/greatest-common-divisor-of-strings/description)
 - **643. Maximum Average Subarray I:** [Solution](maximum-average-subarray-i), [Task](https://leetcode.com/problems/maximum-average-subarray-i/description)
+- **1431. Kids With the Greatest Number of Candies:** [Solution](kids-with-the-greatest-number-of-candies), [Task](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description)
 ## Medium:
 - **1043. Partition Array for Maximum Sum:** [Solution](partition-array-for-maximum-sum), [Task](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 - **5. Longest Palindromic Substring:** [Solution](longest-palindromic-substring), [Task](https://leetcode.com/problems/longest-palindromic-substring/description)
