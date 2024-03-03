@@ -56,4 +56,5 @@ include 'squares-of-a-sorted-array'
 include 'greatest-common-divisor-of-strings'
 include 'maximum-average-subarray-i'
 include 'reverse-words-in-a-string'
+include 'remove-nth-node-from-end-of-list'
 
