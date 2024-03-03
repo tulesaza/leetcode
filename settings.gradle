@@ -58,4 +58,5 @@ include 'maximum-average-subarray-i'
 include 'reverse-words-in-a-string'
 include 'remove-nth-node-from-end-of-list'
 include 'kids-with-the-greatest-number-of-candies'
+include 'reverse-linked-list'
 
