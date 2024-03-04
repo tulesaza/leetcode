@@ -57,6 +57,7 @@
 - **2095. Delete the Middle Node of a Linked List:** [Solution](delete-the-middle-node-of-a-linked-list), [Task](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description)
 - **151. Reverse Words in a String:** [Solution](reverse-words-in-a-string), [Task](https://leetcode.com/problems/reverse-words-in-a-string/description)
 - **19. Remove Nth Node From End of List:** [Solution](remove-nth-node-from-end-of-list), [Task](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description)
+- **948. Bag of Tokens:** [Solution](bag-of-tokens), [Task](https://leetcode.com/problems/bag-of-tokens/description)
 ## Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)
