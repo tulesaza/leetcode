@@ -66,4 +66,5 @@ include 'linked-list-cycle'
 include 'reverse-vowels-of-a-string'
 include 'house-robber'
 include 'non-overlapping-intervals'
+include 'daily-temperatures'
 

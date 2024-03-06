@@ -63,6 +63,7 @@
 - **1750. Minimum Length of String After Deleting Similar Ends:** [Solution](minimum-length-of-string-after-deleting-similar-ends), [Task](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/description)
 - **198. House Robber:** [Solution](house-robber), [Task](https://leetcode.com/problems/house-robber/description)
 - **435. Non-overlapping Intervals:** [Solution](non-overlapping-intervals), [Task](https://leetcode.com/problems/non-overlapping-intervals/description)
+- **739. Daily Temperatures:** [Solution](daily-temperatures), [Task](https://leetcode.com/problems/daily-temperatures/description)
 ## Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)
