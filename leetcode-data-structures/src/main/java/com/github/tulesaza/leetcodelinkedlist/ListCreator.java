@@ -4,6 +4,8 @@ import java.util.List;
 
 public interface ListCreator {
 
+    ListNode fromList(List<Integer> list, int cyclePosition);
+
     ListNode fromList(List<Integer> list);
 
     List<Integer> toList(ListNode start);
