@@ -64,4 +64,5 @@ include 'bag-of-tokens'
 include 'minimum-length-of-string-after-deleting-similar-ends'
 include 'linked-list-cycle'
 include 'reverse-vowels-of-a-string'
+include 'house-robber'
 
