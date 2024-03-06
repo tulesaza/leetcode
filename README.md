@@ -36,6 +36,7 @@
 - **206. Reverse Linked List:** [Solution](reverse-linked-list), [Task](https://leetcode.com/problems/reverse-linked-list/description)
 - **2215. Find the Difference of Two Arrays:** [Solution](find-the-difference-of-two-arrays), [Task](https://leetcode.com/problems/find-the-difference-of-two-arrays/description)
 - **141. Linked List Cycle:** [Solution](linked-list-cycle), [Task](https://leetcode.com/problems/linked-list-cycle/description)
+- **345. Reverse Vowels of a String:** [Solution](reverse-vowels-of-a-string), [Task](https://leetcode.com/problems/reverse-vowels-of-a-string/description)
 ## Medium:
 - **1043. Partition Array for Maximum Sum:** [Solution](partition-array-for-maximum-sum), [Task](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 - **5. Longest Palindromic Substring:** [Solution](longest-palindromic-substring), [Task](https://leetcode.com/problems/longest-palindromic-substring/description)
