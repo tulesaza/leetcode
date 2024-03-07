@@ -66,6 +66,7 @@
 - **198. House Robber:** [Solution](house-robber), [Task](https://leetcode.com/problems/house-robber/description)
 - **435. Non-overlapping Intervals:** [Solution](non-overlapping-intervals), [Task](https://leetcode.com/problems/non-overlapping-intervals/description)
 - **739. Daily Temperatures:** [Solution](daily-temperatures), [Task](https://leetcode.com/problems/daily-temperatures/description)
+- **17. Letter Combinations of a Phone Number:** [Solution](letter-combinations-of-a-phone-number), [Task](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description)
 ## Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)
