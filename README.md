@@ -43,6 +43,7 @@
 - **3005. Count Elements With Maximum Frequency:** [Solution](count-elements-with-maximum-frequency), [Task](https://leetcode.com/problems/count-elements-with-maximum-frequency/description)
 - **724. Find Pivot Index:** [Solution](find-pivot-index), [Task](https://leetcode.com/problems/find-pivot-index/description)
 - **933. Number of Recent Calls:** [Solution](number-of-recent-calls), [Task](https://leetcode.com/problems/number-of-recent-calls/description)
+- **1137. N-th Tribonacci Number:** [Solution](n-th-tribonacci-number), [Task](https://leetcode.com/problems/n-th-tribonacci-number/description)
 ## Medium:
 - **1043. Partition Array for Maximum Sum:** [Solution](partition-array-for-maximum-sum), [Task](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 - **5. Longest Palindromic Substring:** [Solution](longest-palindromic-substring), [Task](https://leetcode.com/problems/longest-palindromic-substring/description)

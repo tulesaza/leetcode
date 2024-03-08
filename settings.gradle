@@ -78,4 +78,5 @@ include 'smallest-number-in-infinite-set'
 include 'find-pivot-index'
 include 'number-of-recent-calls'
 include 'string-compression'
+include 'n-th-tribonacci-number'
 
