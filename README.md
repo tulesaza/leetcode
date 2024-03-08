@@ -41,6 +41,7 @@
 - **605. Can Place Flowers:** [Solution](can-place-flowers), [Task](https://leetcode.com/problems/can-place-flowers/description)
 - **1207. Unique Number of Occurrences:** [Solution](unique-number-of-occurrences), [Task](https://leetcode.com/problems/unique-number-of-occurrences/description)
 - **3005. Count Elements With Maximum Frequency:** [Solution](count-elements-with-maximum-frequency), [Task](https://leetcode.com/problems/count-elements-with-maximum-frequency/description)
+- **724. Find Pivot Index:** [Solution](find-pivot-index), [Task](https://leetcode.com/problems/find-pivot-index/description)
 ## Medium:
 - **1043. Partition Array for Maximum Sum:** [Solution](partition-array-for-maximum-sum), [Task](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 - **5. Longest Palindromic Substring:** [Solution](longest-palindromic-substring), [Task](https://leetcode.com/problems/longest-palindromic-substring/description)

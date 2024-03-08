@@ -75,4 +75,5 @@ include 'container-with-most-water'
 include 'unique-number-of-occurrences'
 include 'count-elements-with-maximum-frequency'
 include 'smallest-number-in-infinite-set'
+include 'find-pivot-index'
 
