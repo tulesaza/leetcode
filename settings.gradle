@@ -77,4 +77,5 @@ include 'count-elements-with-maximum-frequency'
 include 'smallest-number-in-infinite-set'
 include 'find-pivot-index'
 include 'number-of-recent-calls'
+include 'string-compression'
 
