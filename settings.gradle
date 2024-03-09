@@ -82,4 +82,5 @@ include 'n-th-tribonacci-number'
 include 'minimum-common-value'
 include 'single-number'
 include 'asteroid-collision'
+include 'longest-subarray-of-1s-after-deleting-one-element'
 
