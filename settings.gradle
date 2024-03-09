@@ -80,4 +80,5 @@ include 'number-of-recent-calls'
 include 'string-compression'
 include 'n-th-tribonacci-number'
 include 'minimum-common-value'
+include 'single-number'
 
