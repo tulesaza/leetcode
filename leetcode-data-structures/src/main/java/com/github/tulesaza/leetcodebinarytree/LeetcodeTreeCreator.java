@@ -11,6 +11,7 @@ public class LeetcodeTreeCreator implements TreeCreator {
     @Override
     public List<Integer> toList(TreeNode root) {
         List<Integer> list = new ArrayList<>();
+        if(root == null) return list;
         Deque<Optional<TreeNode>> queue = new ArrayDeque<>();
         int notNullCount = 1;
         queue.offer(Optional.of(root));
@@ -41,6 +42,7 @@ public class LeetcodeTreeCreator implements TreeCreator {
 
     @Override
     public TreeNode fromList(List<Integer> list) {
+        if (list.isEmpty()) return null;
         int index = 1;
         Deque<TreeNode> queue = new LinkedList<>();
         TreeNode root = new TreeNode(list.getFirst());

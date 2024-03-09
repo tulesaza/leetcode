@@ -6,6 +6,7 @@ import org.junit.jupiter.params.provider.MethodSource;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 import java.util.stream.Stream;
 
@@ -27,7 +28,8 @@ class LeetcodeTreeCreatorTest {
         return Stream.of(
                 Arguments.of(List.of(1)),
                 Arguments.of(List.of(1, 2, 3)),
-                Arguments.of(list(1, 2, 3, 4, null, 5, 6, null, null, 7))
+                Arguments.of(list(1, 2, 3, 4, null, 5, 6, null, null, 7)),
+                Arguments.of(Collections.emptyList())
         );
     }
 
