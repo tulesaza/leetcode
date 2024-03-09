@@ -48,6 +48,7 @@
 - **136. Single Number:** [Solution](single-number), [Task](https://leetcode.com/problems/single-number/description)
 - **104. Maximum Depth of Binary Tree:** [Solution](maximum-depth-of-binary-tree), [Task](https://leetcode.com/problems/maximum-depth-of-binary-tree/description)
 - **746. Min Cost Climbing Stairs:** [Solution](min-cost-climbing-stairs), [Task](https://leetcode.com/problems/min-cost-climbing-stairs/description)
+- **700. Search in a Binary Search Tree:** [Solution](search-in-a-binary-search-tree), [Task](https://leetcode.com/problems/search-in-a-binary-search-tree/description)
 ## Medium:
 - **1043. Partition Array for Maximum Sum:** [Solution](partition-array-for-maximum-sum), [Task](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 - **5. Longest Palindromic Substring:** [Solution](longest-palindromic-substring), [Task](https://leetcode.com/problems/longest-palindromic-substring/description)

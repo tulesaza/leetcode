@@ -86,4 +86,5 @@ include 'longest-subarray-of-1s-after-deleting-one-element'
 include 'maximum-depth-of-binary-tree'
 include 'min-cost-climbing-stairs'
 include 'minimum-flips-to-make-a-or-b-equal-to-c'
+include 'search-in-a-binary-search-tree'
 
