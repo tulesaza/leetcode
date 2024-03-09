@@ -44,6 +44,7 @@
 - **724. Find Pivot Index:** [Solution](find-pivot-index), [Task](https://leetcode.com/problems/find-pivot-index/description)
 - **933. Number of Recent Calls:** [Solution](number-of-recent-calls), [Task](https://leetcode.com/problems/number-of-recent-calls/description)
 - **1137. N-th Tribonacci Number:** [Solution](n-th-tribonacci-number), [Task](https://leetcode.com/problems/n-th-tribonacci-number/description)
+- **2540. Minimum Common Value:** [Solution](minimum-common-value), [Task](https://leetcode.com/problems/minimum-common-value/description)
 ## Medium:
 - **1043. Partition Array for Maximum Sum:** [Solution](partition-array-for-maximum-sum), [Task](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 - **5. Longest Palindromic Substring:** [Solution](longest-palindromic-substring), [Task](https://leetcode.com/problems/longest-palindromic-substring/description)
