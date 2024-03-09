@@ -78,6 +78,7 @@
 - **11. Container With Most Water:** [Solution](container-with-most-water), [Task](https://leetcode.com/problems/container-with-most-water/description)
 - **2336. Smallest Number in Infinite Set:** [Solution](smallest-number-in-infinite-set), [Task](https://leetcode.com/problems/smallest-number-in-infinite-set/description)
 - **443. String Compression:** [Solution](string-compression), [Task](https://leetcode.com/problems/string-compression/description)
+- **735. Asteroid Collision:** [Solution](asteroid-collision), [Task](https://leetcode.com/problems/asteroid-collision/description)
 ## Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)
