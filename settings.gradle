@@ -84,4 +84,5 @@ include 'single-number'
 include 'asteroid-collision'
 include 'longest-subarray-of-1s-after-deleting-one-element'
 include 'maximum-depth-of-binary-tree'
+include 'min-cost-climbing-stairs'
 
