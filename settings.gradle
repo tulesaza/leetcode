@@ -90,4 +90,5 @@ include 'search-in-a-binary-search-tree'
 include 'guess-number-higher-or-lower'
 include 'intersection-of-two-arrays'
 include 'leaf-similar-trees'
+include 'unique-paths'
 

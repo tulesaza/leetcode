@@ -87,6 +87,7 @@
 - **735. Asteroid Collision:** [Solution](asteroid-collision), [Task](https://leetcode.com/problems/asteroid-collision/description)
 - **1493. Longest Subarray of 1's After Deleting One Element:** [Solution](longest-subarray-of-1s-after-deleting-one-element), [Task](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description)
 - **1318. Minimum Flips to Make a OR b Equal to c:** [Solution](minimum-flips-to-make-a-or-b-equal-to-c), [Task](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description)
+- **62. Unique Paths:** [Solution](unique-paths), [Task](https://leetcode.com/problems/unique-paths/description)
 ## Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)
