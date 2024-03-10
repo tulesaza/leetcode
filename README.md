@@ -89,6 +89,7 @@
 - **1318. Minimum Flips to Make a OR b Equal to c:** [Solution](minimum-flips-to-make-a-or-b-equal-to-c), [Task](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description)
 - **62. Unique Paths:** [Solution](unique-paths), [Task](https://leetcode.com/problems/unique-paths/description)
 - **841. Keys and Rooms:** [Solution](keys-and-rooms), [Task](https://leetcode.com/problems/keys-and-rooms/description)
+- **1926. Nearest Exit from Entrance in Maze:** [Solution](nearest-exit-from-entrance-in-maze), [Task](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description)
 ## Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)

@@ -92,4 +92,5 @@ include 'intersection-of-two-arrays'
 include 'leaf-similar-trees'
 include 'unique-paths'
 include 'keys-and-rooms'
+include 'nearest-exit-from-entrance-in-maze'
 
