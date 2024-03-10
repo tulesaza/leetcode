@@ -51,6 +51,7 @@
 - **700. Search in a Binary Search Tree:** [Solution](search-in-a-binary-search-tree), [Task](https://leetcode.com/problems/search-in-a-binary-search-tree/description)
 - **374. Guess Number Higher or Lower:** [Solution](guess-number-higher-or-lower), [Task](https://leetcode.com/problems/guess-number-higher-or-lower/description)
 - **349. Intersection of Two Arrays:** [Solution](intersection-of-two-arrays), [Task](https://leetcode.com/problems/intersection-of-two-arrays/description)
+- **872. Leaf-Similar Trees:** [Solution](leaf-similar-trees), [Task](https://leetcode.com/problems/leaf-similar-trees/description)
 ## Medium:
 - **1043. Partition Array for Maximum Sum:** [Solution](partition-array-for-maximum-sum), [Task](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 - **5. Longest Palindromic Substring:** [Solution](longest-palindromic-substring), [Task](https://leetcode.com/problems/longest-palindromic-substring/description)

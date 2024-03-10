@@ -89,4 +89,5 @@ include 'minimum-flips-to-make-a-or-b-equal-to-c'
 include 'search-in-a-binary-search-tree'
 include 'guess-number-higher-or-lower'
 include 'intersection-of-two-arrays'
+include 'leaf-similar-trees'
 
