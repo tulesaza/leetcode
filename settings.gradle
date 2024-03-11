@@ -94,4 +94,5 @@ include 'unique-paths'
 include 'keys-and-rooms'
 include 'nearest-exit-from-entrance-in-maze'
 include 'determine-if-two-strings-are-close'
+include 'custom-sort-string'
 
