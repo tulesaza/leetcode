@@ -92,6 +92,7 @@
 - **1926. Nearest Exit from Entrance in Maze:** [Solution](nearest-exit-from-entrance-in-maze), [Task](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description)
 - **1657. Determine if Two Strings Are Close:** [Solution](determine-if-two-strings-are-close), [Task](https://leetcode.com/problems/determine-if-two-strings-are-close/description)
 - **791. Custom Sort String:** [Solution](custom-sort-string), [Task](https://leetcode.com/problems/custom-sort-string/description)
+- **1171. Remove Zero Sum Consecutive Nodes from Linked List:** [Solution](remove-zero-sum-consecutive-nodes-from-linked-list), [Task](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/description)
 ## Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)
