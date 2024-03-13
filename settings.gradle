@@ -96,4 +96,5 @@ include 'nearest-exit-from-entrance-in-maze'
 include 'determine-if-two-strings-are-close'
 include 'custom-sort-string'
 include 'remove-zero-sum-consecutive-nodes-from-linked-list'
+include 'find-the-pivot-integer'
 
