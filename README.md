@@ -98,6 +98,7 @@
 - **238. Product of Array Except Self:** [Solution](product-of-array-except-self), [Task](https://leetcode.com/problems/product-of-array-except-self)
 - **328. Odd Even Linked List:** [Solution](odd-even-linked-list), [Task](https://leetcode.com/problems/odd-even-linked-list/description)
 - **208. Implement Trie (Prefix Tree):** [Solution](implement-trie-prefix-tree), [Task](https://leetcode.com/problems/implement-trie-prefix-tree/description)
+- **525. Contiguous Array:** [Solution](contiguous-array), [Task](https://leetcode.com/problems/contiguous-array/description)
 ## Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)
