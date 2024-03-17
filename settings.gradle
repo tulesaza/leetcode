@@ -104,4 +104,5 @@ include 'implement-trie-prefix-tree'
 include 'contiguous-array'
 include 'binary-tree-right-side-view'
 include 'combination-sum-iii'
+include 'insert-interval'
 
