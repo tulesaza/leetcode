@@ -107,6 +107,7 @@
 - **334. Increasing Triplet Subsequence:** [Solution](increasing-triplet-subsequence), [Task](https://leetcode.com/problems/increasing-triplet-subsequence/description)
 - **621. Task Scheduler:** [Solution](task-scheduler), [Task](https://leetcode.com/problems/task-scheduler/description)
 - **1143. Longest Common Subsequence:** [Solution](longest-common-subsequence), [Task](https://leetcode.com/problems/longest-common-subsequence/description)
+- **2352. Equal Row and Column Pairs:** [Solution](equal-row-and-column-pairs), [Task](https://leetcode.com/problems/equal-row-and-column-pairs/description)
 # Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)

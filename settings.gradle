@@ -110,4 +110,5 @@ include 'minimum-number-of-arrows-to-burst-balloons'
 include 'increasing-triplet-subsequence'
 include 'task-scheduler'
 include 'longest-common-subsequence'
+include 'equal-row-and-column-pairs'
 
