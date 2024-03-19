@@ -108,4 +108,5 @@ include 'insert-interval'
 include 'decode-string'
 include 'minimum-number-of-arrows-to-burst-balloons'
 include 'increasing-triplet-subsequence'
+include 'task-scheduler'
 

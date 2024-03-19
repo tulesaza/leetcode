@@ -105,6 +105,7 @@
 - **394. Decode String:** [Solution](decode-string), [Task](https://leetcode.com/problems/decode-string/description)
 - **452. Minimum Number of Arrows to Burst Balloons:** [Solution](minimum-number-of-arrows-to-burst-balloons), [Task](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description)
 - **334. Increasing Triplet Subsequence:** [Solution](increasing-triplet-subsequence), [Task](https://leetcode.com/problems/increasing-triplet-subsequence/description)
+- **621. Task Scheduler:** [Solution](task-scheduler), [Task](https://leetcode.com/problems/task-scheduler/description)
 # Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)
