@@ -112,4 +112,5 @@ include 'task-scheduler'
 include 'longest-common-subsequence'
 include 'equal-row-and-column-pairs'
 include 'merge-in-between-linked-lists'
+include 'dota2-senate'
 
