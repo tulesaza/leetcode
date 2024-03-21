@@ -111,6 +111,7 @@
 - **1669. Merge In Between Linked Lists:** [Solution](merge-in-between-linked-lists), [Task](https://leetcode.com/problems/merge-in-between-linked-lists/description)
 - **649. Dota2 Senate:** [Solution](dota2-senate), [Task](https://leetcode.com/problems/dota2-senate/description)
 - **2300. Successful Pairs of Spells and Potions:** [Solution](successful-pairs-of-spells-and-potions), [Task](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description)
+- **1004. Max Consecutive Ones III** [Solution](max-consecutive-ones-iii), [Task](https://leetcode.com/problems/max-consecutive-ones-iii/description)
 # Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)

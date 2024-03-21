@@ -114,4 +114,5 @@ include 'equal-row-and-column-pairs'
 include 'merge-in-between-linked-lists'
 include 'dota2-senate'
 include 'successful-pairs-of-spells-and-potions'
+include 'max-consecutive-ones-iii'
 
