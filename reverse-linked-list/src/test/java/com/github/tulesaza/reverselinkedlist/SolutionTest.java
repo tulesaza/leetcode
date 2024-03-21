@@ -26,6 +26,14 @@ class SolutionTest {
         assertThat(listCreator.toList(result)).isEqualTo(reversed);
     }
 
+    @ParameterizedTest
+    @MethodSource("data")
+    void reverseRecursive(List<Integer> list, List<Integer> reversed) {
+        ListNode input = listCreator.fromList(list);
+        ListNode result = solution.reverseRecursive(input);
+        assertThat(listCreator.toList(result)).isEqualTo(reversed);
+    }
+
     static Stream<Arguments> data() {
         return Stream.of(
                 Arguments.of(List.of(1, 2, 3, 4, 5), List.of(5, 4, 3, 2, 1)),

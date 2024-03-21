@@ -16,4 +16,16 @@ class Solution {
         }
         return prev;
     }
+
+    // 1 - 2 - 3 - 4
+    public ListNode reverseRecursive(ListNode head) {
+        if (head == null || head.next == null) {
+            return head;
+        }
+        ListNode last = reverseRecursive(head.next);
+        head.next.next = head;
+        head.next = null;
+        return last;
+    }
+
 }
