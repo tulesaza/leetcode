@@ -116,4 +116,5 @@ include 'dota2-senate'
 include 'successful-pairs-of-spells-and-potions'
 include 'max-consecutive-ones-iii'
 include 'palindrome-linked-list'
+include 'edit-distance'
 

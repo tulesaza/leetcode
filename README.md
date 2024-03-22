@@ -113,6 +113,7 @@
 - **2300. Successful Pairs of Spells and Potions:** [Solution](successful-pairs-of-spells-and-potions), [Task](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description)
 - **1004. Max Consecutive Ones III** [Solution](max-consecutive-ones-iii), [Task](https://leetcode.com/problems/max-consecutive-ones-iii/description)
 - **234. Palindrome Linked List:** [Solution](palindrome-linked-list), [Task](https://leetcode.com/problems/palindrome-linked-list/description)
+- **72. Edit Distance:** [Solution](edit-distance), [Task](https://leetcode.com/problems/edit-distance/description)
 # Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)
