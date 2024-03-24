@@ -115,6 +115,7 @@
 - **234. Palindrome Linked List:** [Solution](palindrome-linked-list), [Task](https://leetcode.com/problems/palindrome-linked-list/description)
 - **72. Edit Distance:** [Solution](edit-distance), [Task](https://leetcode.com/problems/edit-distance/description)
 - **143. Reorder List:** [Solution](reorder-list), [Task](https://leetcode.com/problems/reorder-list/description)
+- **287. Find the Duplicate Number:** [Solution](find-the-duplicate-number), [Task](https://leetcode.com/problems/find-the-duplicate-number/description)
 # Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)
