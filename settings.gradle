@@ -119,4 +119,5 @@ include 'palindrome-linked-list'
 include 'edit-distance'
 include 'reorder-list'
 include 'find-the-duplicate-number'
+include 'find-all-duplicates-in-an-array'
 
