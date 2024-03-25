@@ -117,6 +117,7 @@
 - **143. Reorder List:** [Solution](reorder-list), [Task](https://leetcode.com/problems/reorder-list/description)
 - **287. Find the Duplicate Number:** [Solution](find-the-duplicate-number), [Task](https://leetcode.com/problems/find-the-duplicate-number/description)
 - **442. Find All Duplicates in an Array:** [Solution](find-all-duplicates-in-an-array), [Task](https://leetcode.com/problems/find-all-duplicates-in-an-array/description)
+- **2130. Maximum Twin Sum of a Linked List:** [Solution](maximum-twin-sum-of-a-linked-list), [Task](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description)
 # Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)
