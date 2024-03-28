@@ -120,6 +120,7 @@
 - **2130. Maximum Twin Sum of a Linked List:** [Solution](maximum-twin-sum-of-a-linked-list), [Task](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description)
 - **1679. Max Number of K-Sum Pairs:** [Solution](max-number-of-k-sum-pairs), [Task](https://leetcode.com/problems/max-number-of-k-sum-pairs/description)
 - **713. Subarray Product Less Than K:** [Solution](subarray-product-less-than-k), [Task](https://leetcode.com/problems/subarray-product-less-than-k/description)
+- **2958. Length of Longest Subarray With at Most K Frequency:** [Solution](length-of-longest-subarray-with-at-most-k-frequency), [Task](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/description)
 # Hard:
 - **76. Minimum Window Substring:** [Solution](minimum-window-substring), [Task](https://leetcode.com/problems/minimum-window-substring/description/)
 - **32. Longest Valid Parentheses:** [Solution](longest-valid-parentheses), [Task](https://leetcode.com/problems/longest-valid-parentheses/description/)

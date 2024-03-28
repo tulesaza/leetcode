@@ -124,4 +124,5 @@ include 'maximum-twin-sum-of-a-linked-list'
 include 'max-number-of-k-sum-pairs'
 include 'first-missing-positive'
 include 'subarray-product-less-than-k'
+include 'length-of-longest-subarray-with-at-most-k-frequency'
 
