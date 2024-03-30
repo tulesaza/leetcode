@@ -128,3 +128,4 @@
 - **42. Trapping Rain Water:** [Solution](trapping-rain-water), [Task](https://leetcode.com/problems/trapping-rain-water/description/)
 - **2092. Find All People With Secret:** [Solution](find-all-people-with-secret), [Task](https://leetcode.com/problems/find-all-people-with-secret/description)
 - **41. First Missing Positive:** [Solution](first-missing-positive), [Task](https://leetcode.com/problems/first-missing-positive/description)
+- **992. Subarrays with K Different Integers:** [Solution](subarrays-with-k-different-integers), [Task](https://leetcode.com/problems/subarrays-with-k-different-integers/description)
