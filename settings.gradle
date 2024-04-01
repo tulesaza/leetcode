@@ -128,4 +128,5 @@ include 'length-of-longest-subarray-with-at-most-k-frequency'
 include 'count-subarrays-where-max-element-appears-at-least-k-times'
 include 'subarrays-with-k-different-integers'
 include 'count-subarrays-with-fixed-bounds'
+include 'length-of-last-word'
 
