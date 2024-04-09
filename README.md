@@ -55,6 +55,7 @@
 - **2485. Find the Pivot Integer:** [Solution](find-the-pivot-integer), [Task](https://leetcode.com/problems/find-the-pivot-integer/description)
 - **58. Length of Last Word:** [Solution](length-of-last-word), [Task](https://leetcode.com/problems/length-of-last-word/description)
 - **205. Isomorphic Strings:** [Solution](isomorphic-strings), [Task](https://leetcode.com/problems/isomorphic-strings/description)
+- **2073. Time Needed to Buy Tickets:** [Solution](time-needed-to-buy-tickets), [Task](https://leetcode.com/problems/time-needed-to-buy-tickets/description)
 ## Medium:
 - **1043. Partition Array for Maximum Sum:** [Solution](partition-array-for-maximum-sum), [Task](https://leetcode.com/problems/partition-array-for-maximum-sum/description/)
 - **5. Longest Palindromic Substring:** [Solution](longest-palindromic-substring), [Task](https://leetcode.com/problems/longest-palindromic-substring/description)
