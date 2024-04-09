@@ -131,4 +131,5 @@ include 'count-subarrays-with-fixed-bounds'
 include 'length-of-last-word'
 include 'isomorphic-strings'
 include 'time-needed-to-buy-tickets'
+include 'number-of-students-unable-to-eat-lunch'
 
